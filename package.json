@@ -1,7 +1,7 @@
 {
   "name": "personal-site",
   "version": "1.0.0",
-  "homepage": "https://bkshaw.github.io/",
+  "homepage": "https://bkshaw.github.io/portfolio",
   "repository": {
     "type": "git",
     "url": "https://github.com/bkshaw/personal-site.git"
@@ -10,11 +10,12 @@
     "node": ">=16.x"
   },
   "scripts": {
-    "analyze": "npm run build && source-map-explorer build/static/js/*.chunk.js",
-    "build": "rimraf ./build && react-scripts build",
-    "lint": "eslint \"**/*.js\"",
-    "predeploy": "npm run build && react-snap",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
+    "build": "rimraf ./build && react-scripts build",
+    "analyze": "npm run build && source-map-explorer build/static/js/*.chunk.js",
+    "lint": "eslint \"**/*.js\"",
     "test": "npx jest"
   },
   "dependencies": {
@@ -46,6 +47,7 @@
     "eslint-plugin-import": "^2.29.1",
     "eslint-plugin-jsx-a11y": "6.9.0",
     "eslint-plugin-react": "^7.35.0",
+    "gh-pages": "^6.1.1",
     "react-snap": "^1.23.0",
     "rimraf": "^6.0.1",
     "sass": "^1.77.8",
