@@ -26,15 +26,20 @@ const data = [
   },
   // need to update
   {
-    key: 'countries',
-    label: 'Countries visited',
-    value: 53,
-    link: 'https://www.google.com/maps/d/embed?mid=1iBBTscqateQ93pWFVfHCUZXoDu8&z=2',
+    key: 'experience',
+    label: 'Work Experience',
+    value: '4+ years',
   },
   {
     key: 'location',
     label: 'Current city',
-    value: 'Kolkata India',
+    value: 'Kolkata',
+    link: 'https://www.google.com/maps/d/u/1/embed?mid=1WxVK-CTuRklZWF-E3yZ6EAfn2nxJwZ0&ehbc=2E312F',
+  },
+  {
+    key: 'languages',
+    label: 'Languages Known',
+    value: 5,
   },
 ];
 

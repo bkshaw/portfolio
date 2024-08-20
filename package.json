@@ -4,7 +4,7 @@
   "homepage": "https://bkshaw.github.io/portfolio",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bkshaw/personal-site.git"
+    "url": "https://github.com/bkshaw/portfolio.git"
   },
   "engines": {
     "node": ">=16.x"

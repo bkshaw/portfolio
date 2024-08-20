@@ -18,38 +18,33 @@ I am an AI Engineer at [Valuence Technologies Japan](https://www.valuence-t.com/
 
 - In 2013, at the age of 18, I completed high school with a score of about 92.0%. Once again, the highlight was my Mathematics score, where I achieved a perfect 100 out of 100. I topped my school that year.
 
+- In 2017, I graduated with a degree in Electrical Engineering from KGEC in West Bengal, India.
+
+- In 2018, I took the GATE examinations and qualified for admission to pursue a Master's at IIT Guwahati.
+
+- In 2019, I completed an internship as a Machine Learning Engineer at Tata Consultancy Service in Chennai.
+
+- In 2020, I finished my Master's degree in Signal Processing and Machine Learning. I truly enjoyed my studies as the subject encompassed Mathematics and Computer Science, which are my first and second loves.
+
+- Also in 2020, after completing my Master's, I joined Valuence Technologies as an AI Engineer to develop products for the company.
+
+- I have been working at Valuence Technologies for over 4 years, and during this time, I have made significant contributions to the development of many of its products and tools.
+
 Ask me in person for other stories that I'm afraid to share with the internet.
 
 # I like
 
-- Running
-- Skiing
-- Sailing and the sea
-- Space
-- Summer
-- [Books](https://www.goodreads.com/mdangelo)
-- Colored pencils ([Faber-Castell Polychromos](https://www.faber-castell.com/products/art-and-graphic/polychromos))
-- Podcasts ([The Daily](https://www.nytimes.com/column/the-daily), [The Ezra Klein Show](https://www.nytimes.com/column/ezra-klein-podcast), [Planet Money](https://www.npr.org/sections/money/), [The Indicator](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money), [This American Life](https://www.thisamericanlife.org/), [99% Invisible](https://99percentinvisible.org/episodes/), [The Economist](http://radio.economist.com/), [Radiolab](https://www.wnycstudios.org/shows/radiolab), [Hidden Brain](https://www.npr.org/series/423302056/hidden-brain), [Inquiring Minds](https://inquiring.show), and others)
-- [Good design](/)
-- [Photography](https://instagram.com/dangelosaurus)
-
-# Travel / Geography
-
-- I am originally from Buffalo, New York. I have since lived in Palo Alto, Mountain View, San Francisco, Seattle, and New York City.
-- I've been to approximately 50 countries, some of which I have forgotten, many of which I would like to revisit.
-- In 2016, I visited Canada, Ethiopia, Austria, Germany, Belgium, Ireland, Northern Ireland, Italy, Romania, Sweden, Norway, Svalbard, Panama, Costa Rica, Uganda, Japan, and the UAE, mostly in that order.
-- In 2017, I visited Canada, Japan, Denmark, Germany, Sweden, Estonia, Russia, the Netherlands, Belgium, the U.K., Spain, Iceland, France, Switzerland, Ethiopia, and Luxembourg.
-- In 2018, I visited Canada, France, Italy, Israel, and the U.K.
-- In 2019, I visited Canada, England, France, and Switzerland.
-- In 2020, I traveled barely 20 blocks. I stayed in New York and remodeled an apartment.
-- In 2021, I continued remodeling an apartment.
-- In 2022, I switched jobs and visited the UK, France, Greece, Belgium, Luxembourg, Germany, and Kenya.
-- In 2023, I visited France, the UK, Ireland, and Rwanda.
-- I am an Oregon Trail II enthusiast.
+- Travelling, Exploring new places
+- All Physical Sports, watching and playing both
+- Music particularly Indian classical
+- Reading any Book or from the Internet
+- Understanding Businesses and Tracking them
+- Exercising and Running
 
 # I dream of
 
 - Inspiring and feeling inspired.
+- Using my skill to change the world in a better way. Atleast 0.0000001% better!
 - Enabling a brighter future for everyone, regardless of political or socioeconomic status.
 - Treating every individual with genuine kindness and respect.
 - Staying curious.
