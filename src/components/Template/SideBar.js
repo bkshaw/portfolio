@@ -22,8 +22,10 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi, I&apos;m Bishal, an AI Engineer at Valuence Technologies. I build AI solutions for
-        various business problems. I am an alumni of Indian Institute of Technology Guwahati.
+        Hi, I&apos;m Bishal. I am a IIT Guwahati graduate, KGEC alumni, and a software engineer.
+        I am currently working as the Lead AI Engineer at
+        <a href="https://www.valuence.inc/en/group/technologies/"> Valuence Technologies</a>
+        . I am interested in AI, Machine Learning, Data Science, and some Web Development.
       </p>
       <ul className="actions">
         <li>

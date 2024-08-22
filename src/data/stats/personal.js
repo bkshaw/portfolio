@@ -24,7 +24,6 @@ const data = [
     label: 'Current age',
     value: <Age />,
   },
-  // need to update
   {
     key: 'experience',
     label: 'Work Experience',

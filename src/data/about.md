@@ -14,9 +14,9 @@ I am an AI Engineer at [Valuence Technologies Japan](https://www.valuence-t.com/
 
 - From then on, I began taking my studies more seriously and consistently improved my grades year after year.
 
-- In 2011, at the age of 16, I completed my 10th grade with a score of over 91.5%. One of the highlights was my Mathematics score, where I achieved 98 out of 100. I ranked 3rd in my school that year.
+- In 2011, at the age of 16, I completed my 10th grade with a score of over 91.72%. One of the highlights was my Mathematics score, where I achieved 98 out of 100. I ranked 3rd in my school that year.
 
-- In 2013, at the age of 18, I completed high school with a score of about 92.0%. Once again, the highlight was my Mathematics score, where I achieved a perfect 100 out of 100. I topped my school that year.
+- In 2013, at the age of 18, I completed high school with a score of about 90.50%. Once again, the highlight was my Mathematics score, where I achieved a perfect 100 out of 100. I topped my school that year.
 
 - In 2017, I graduated with a degree in Electrical Engineering from KGEC in West Bengal, India.
 
@@ -35,7 +35,7 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 # I like
 
 - Travelling, Exploring new places
-- All Physical Sports, watching and playing both
+- All Physical Sports, watching and playing
 - Music particularly Indian classical
 - Reading any Book or from the Internet
 - Understanding Businesses and Tracking them

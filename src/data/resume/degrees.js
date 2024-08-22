@@ -13,6 +13,20 @@ const degrees = [
     link: 'https://www.kgec.edu.in/',
     year: 2017,
   },
+  {
+    school: 'South End Centre E.M High School',
+    degree: 'Higher Secondary (Science) ISC',
+    grade: '90.50%',
+    link: 'https://www.southendcentreemschool.org/',
+    year: 2013,
+  },
+  {
+    school: 'South End Centre E.M High School',
+    degree: 'Secondary (Science) ICSE',
+    grade: '91.72%',
+    link: 'https://www.southendcentreemschool.org/',
+    year: 2011,
+  },
 ];
 
 export default degrees;
