@@ -10,7 +10,7 @@ I am an AI Engineer at [Valuence Technologies Japan](https://www.valuence-t.com/
 
 - The turning point in my life came when I was 9 years old and lost my mother to cancer. At that moment, I couldn't fully grasp the magnitude of the loss.
 
-- I remembered some of the last words my mother said to me, expressing her dream of seeing me educated. Her words have stayed with me to this day.
+- I always used to recall some of the last words my mother said to me, expressing her dream to see me educated and successful. Her words have stayed with me to this day.
 
 - From then on, I began taking my studies more seriously and consistently improved my grades year after year.
 
