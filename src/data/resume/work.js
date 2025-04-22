@@ -13,15 +13,32 @@
  */
 const work = [
   {
+    name: 'Cotality (formerly CoreLogic)',
+    position: 'Senior Advance ML Engineer',
+    url: 'https://www.cotality.com/',
+    startDate: '2024-11-18',
+    summary: 'CoreLogic, now rebranded as Cotality, has a vision to connect the entire property ecosystem through data and technology. It leverages vast amounts of real-time data to provide actionable insights that can help clients make informed decisions.',
+    highlights: [
+      'Developed a model to detect, localize and segment target objects from roof inspection images and indoor mitigation images.'
+      + ' The model was able to detect with an accuracy of 95% and localize them with an average precision of 90%.'
+      + ' It was deployed on-device on IOS mobile phone to provide almost real-time inspection results.'
+      + ' This model is further extended to track and count the number of target objects in any video.',
+
+      'Developed a system to convert unstructured data like images, videos, and audios into structured data using LLMs.'
+      + ' The system was able to extract mitigation information about the property in more structured format and then create Line Items for it.'
+      + ' It was extended to connect to a estimator platform to estimate the cost of the mitigation.',
+    ],
+  },
+  {
     name: 'Valuence Technologies(VT) Japan',
     position: 'Lead AI Engineer',
     url: 'https://www.valuence.inc/en/group/technologies/',
     startDate: '2023-01-01',
-    summary: `Valuence Technologies is a subsidiary of Valuence Holdings, a luxury goods retailer company in Japan. 
-    It is a technology company that provides AI solutions to various business problems of its other subsidiaries and also other clients.`,
+    endDate: '2024-08-31',
+    summary: 'Valuence Technologies is a subsidiary of Valuence Holdings, a luxury goods retailer company in Japan. It is a technology company that provides AI solutions to various business problems of its other subsidiaries and also other clients.',
     highlights: [
       'Developed an API using a Large Language Model (LLM) to extract product information from'
-      + ' different e-commerce websites in Japan effectively. These websites have non-uniform HTML structures,'
+      + ' different e-commerce websites in Japan effectively. These websites had non-uniform HTML structures,'
       + ' which previously made data scraping time-consuming.',
       'Expanded the Auto-assessing Platform with new features such as the "Guarantee Card Detector", "Watch Dial-info Predictor",'
       + ' and "Optimal Sales Channel Estimator". Understood the requirements, prepared dataset and trained models to address them.',
@@ -52,7 +69,7 @@ const work = [
     highlights: [
       'Developed the model architecture for Multi-view CNN from scratch on the ResNet backbone'
       + ' and tested its performance on multiple datasets. Subsequently, it was adopted as a benchmark.',
-      'Built an API to record and manage the work hours of in-house employees of Valuence.'
+      'Built an API using Vue.js and Laravel to record and manage the work hours of in-house employees of Valuence.'
       + ' This end-to-end project had all the necessary security checks, roles definition and a user-friendly interface.',
     ],
   },
@@ -62,8 +79,7 @@ const work = [
     url: 'https://imarticus.org/',
     startDate: '2022-08-01',
     endDate: '2023-03-30',
-    summary: `Imarticus Learning is a professional education institute that offers various courses in the field of Data Science, 
-    Machine Learning, and Finance. I worked part-time as an Assistant Instructor for the Machine Learning course.`,
+    summary: 'Imarticus Learning is a professional education institute that offers various courses in the field of Data Science, Machine Learning, and Finance. I worked part-time as an Assistant Instructor for the Machine Learning course.',
     highlights: [
       'Conducted live sessions for students on various Machine Learning topics like Regression, Classification,'
       + ' Clustering, Dimensionality Reduction, and Neural Networks.',
@@ -76,8 +92,7 @@ const work = [
     url: 'https://www.tcs.com/',
     startDate: '2019-05-25',
     endDate: '2019-07-30',
-    summary: `Tata Consultancy Services is an Indian multinational information technology services and consulting company.
-    I worked as a Machine Learning Engineer Intern in the AI and Cognitive Sciences team of TCS Research and Innovation Labs.`,
+    summary: 'Tata Consultancy Services is an Indian multinational information technology services and consulting company. I worked as a Machine Learning Engineer Intern in the AI and Cognitive Sciences team of TCS Research and Innovation Labs.',
     highlights: [
       'Worked on a project called "Shoppable Video - In-video Search" where I developed a model to detect and localise'
       + ' products like bags, shoes, and apparels from videos.',
@@ -91,8 +106,7 @@ const work = [
     url: 'https://www.iitg.ac.in/',
     startDate: '2019-07-01',
     endDate: '2020-04-30',
-    summary: `IIT Guwahati is one of the premier institutes of India. I worked as a Teaching Assistant in the 
-    Introduction to Machine Learning Lab of the Electrical Engineering and Electronics Department.`,
+    summary: 'IIT Guwahati is one of the premier institutes of India. I worked as a Teaching Assistant in the Introduction to Machine Learning Lab of the Electrical Engineering and Electronics Department.',
     highlights: [
       'Conducted lab sessions for students on various Machine Learning topics like Regression, Classification,'
       + ' Clustering, Dimensionality Reduction, and Neural Networks.',

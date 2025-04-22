@@ -1,45 +1,50 @@
-// Programming, Python, ML Engineering, Data Science, Data Engineering, Deep Learning,
-// Web Development, Tools, DevOps, Databases, Generative AI
+// Programming, Python, Data Science, Deep Learning,
+// Web Development, Tools, DevOps/MLOps, Databases, Generative AI
 const skills = [
   {
     title: 'Python',
     competency: 5,
-    category: ['Programming', 'Data Science', 'ML Engineering', 'Data Engineering', 'Web Development'],
+    category: ['Programming', 'Data Science', 'Web Development'],
   },
   {
     title: 'Numpy',
     competency: 5,
-    category: ['Data Science', 'Data Engineering', 'ML Engineering', 'Python'],
+    category: ['Data Science', 'Python'],
   },
   {
     title: 'PyTorch',
     competency: 5,
-    category: ['ML Engineering', 'Deep Learning', 'Data Science', 'Python'],
+    category: ['Deep Learning', 'Data Science', 'Python'],
+  },
+  {
+    title: 'Transformers',
+    competency: 5,
+    category: ['Deep Learning', 'Data Science', 'Python', 'Generative AI'],
   },
   {
     title: 'Tensorflow + Keras',
     competency: 4,
-    category: ['ML Engineering', 'Deep Learning', 'Python'],
+    category: ['Deep Learning', 'Python'],
   },
   {
     title: 'OpenCV',
     competency: 4,
-    category: ['ML Engineering', 'Python', 'Data Engineering', 'Data Science'],
+    category: ['Python', 'Data Science'],
   },
   {
     title: 'Pandas',
     competency: 5,
-    category: ['Data Engineering', 'ML Engineering', 'Python', 'Data Science'],
+    category: ['Python', 'Data Science'],
   },
   {
     title: 'Matplotlib',
     competency: 4,
-    category: ['Data Engineering', 'ML Engineering', 'Python'],
+    category: ['Python'],
   },
   {
     title: 'Scikit-Learn',
     competency: 5,
-    category: ['Data Engineering', 'ML Engineering', 'Python', 'Data Science'],
+    category: ['Python', 'Data Science'],
   },
   {
     title: 'Javascript',
@@ -48,12 +53,12 @@ const skills = [
   },
   {
     title: 'Node.JS',
-    competency: 2,
+    competency: 3,
     category: ['Web Development'],
   },
   {
     title: 'React',
-    competency: 2,
+    competency: 4,
     category: ['Web Development'],
   },
   {
@@ -72,19 +77,29 @@ const skills = [
     category: ['Web Development'],
   },
   {
-    title: 'PHP',
-    competency: 2,
-    category: ['Web Development', 'Programming'],
-  },
-  {
     title: 'Bash',
     competency: 3,
-    category: ['Tools', 'Programming', 'Data Engineering', 'DevOps'],
+    category: ['Tools', 'Programming', 'DevOps/MLOps'],
+  },
+  {
+    title: 'awscli',
+    competency: 4,
+    category: ['Tools', 'Programming', 'DevOps/MLOps'],
+  },
+  {
+    title: 'SQL',
+    competency: 4,
+    category: ['Tools', 'Programming', 'DevOps/MLOps'],
   },
   {
     title: 'Amazon Web Services (AWS)',
     competency: 4,
-    category: ['Tools', 'DevOps', 'Web Development', 'Data Engineering', 'Databases', 'ML Engineering', 'Generative AI'],
+    category: ['Tools', 'DevOps/MLOps', 'Web Development', 'Databases', 'Generative AI'],
+  },
+  {
+    title: 'Microsoft Azure',
+    competency: 4,
+    category: ['Tools', 'DevOps/MLOps', 'Web Development', 'Databases', 'Generative AI'],
   },
   {
     title: 'MongoDB',
@@ -97,13 +112,8 @@ const skills = [
     category: ['Web Development', 'Databases', 'Programming'],
   },
   {
-    title: 'Data Mining',
-    competency: 3,
-    category: ['Data Engineering', 'ML Engineering', 'Data Science'],
-  },
-  {
     title: 'Flask',
-    competency: 3,
+    competency: 4,
     category: ['Web Development', 'Python'],
   },
   {
@@ -112,19 +122,34 @@ const skills = [
     category: ['Web Development', 'Python'],
   },
   {
+    title: 'Streamlit',
+    competency: 4,
+    category: ['Web Development', 'Python'],
+  },
+  {
     title: 'Git',
     competency: 4,
-    category: ['Tools', 'DevOps'],
+    category: ['Tools', 'DevOps/MLOps'],
+  },
+  {
+    title: 'Linux',
+    competency: 4,
+    category: ['Tools', 'DevOps/MLOps'],
   },
   {
     title: 'Docker/Docker Compose',
     competency: 4,
-    category: ['Tools', 'Data Engineering', 'DevOps'],
+    category: ['Tools', 'DevOps/MLOps'],
+  },
+  {
+    title: 'Kubernetes',
+    competency: 3,
+    category: ['Tools', 'DevOps/MLOps'],
   },
   {
     title: 'Jupyter',
-    competency: 3,
-    category: ['Data Science', 'Python', 'ML Engineering', 'Data Engineering', 'Tools'],
+    competency: 5,
+    category: ['Data Science', 'Python', 'Tools'],
   },
   {
     title: 'C',
@@ -145,11 +170,6 @@ const skills = [
     title: 'MATLAB',
     competency: 3,
     category: ['Programming', 'Data Science', 'Tools'],
-  },
-  {
-    title: 'Data Visualization',
-    competency: 3,
-    category: ['Data Science', 'Data Engineering', 'Web Development'],
   },
   {
     title: 'Langchain',
@@ -176,22 +196,31 @@ const skills = [
     competency: 5,
     category: ['Generative AI', 'Deep Learning', 'Python', 'Tools'],
   },
+  {
+    title: 'MLFlow',
+    competency: 4,
+    category: ['Tools', 'DevOps/MLOps'],
+  },
+  {
+    title: 'GitHub Actions',
+    competency: 3,
+    category: ['Tools', 'DevOps/MLOps'],
+  },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
-
 // this is a list of colors that I like. The length should be === to the
 // number of categories. Re-arrange this list until you find a pattern you like.
 const colors = [
+  '#747fff',
+  '#64cb7b',
+  '#e47272',
   '#6968b3',
+  '#cc7b94',
   '#37b1f5',
   '#40494e',
   '#515dd4',
-  '#e47272',
-  '#cc7b94',
-  '#3896e2',
   '#c3423f',
   '#d75858',
-  '#747fff',
-  '#64cb7b',
+  '#3896e2',
 ];
 
 const categories = [...new Set(skills.flatMap(({ category }) => category))]

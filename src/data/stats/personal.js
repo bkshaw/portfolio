@@ -40,6 +40,36 @@ const data = [
     label: 'Languages Known',
     value: 5,
   },
+  {
+    key: 'skills',
+    label: 'Technical Skills',
+    value: '40+',
+  },
+  {
+    key: 'education',
+    label: 'Degrees',
+    value: 4,
+  },
+  {
+    key: 'courses',
+    label: 'Courses Completed',
+    value: '20+',
+  },
+  {
+    key: 'certifications',
+    label: 'AI/ML Specializations',
+    value: '5+',
+  },
+  {
+    key: 'projects',
+    label: 'Major Projects',
+    value: '10+',
+  },
+  {
+    key: 'companies',
+    label: 'Companies Worked With',
+    value: 3,
+  },
 ];
 
 export default data;

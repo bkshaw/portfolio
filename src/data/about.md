@@ -1,34 +1,36 @@
 # Intro
 
-I am an AI Engineer at [Valuence Technologies Japan](https://www.valuence-t.com/) (VT). My work at VT revolves around building products using the latest AI algorithms helping to scale its business. Before joining Valuence, I completed my Masters in Signal Processing from the IIT Guwahati. I enjoy learning about the latest developments in Artificial Intelligence in my spare time. I am particularly interested in projects with social impact. If I can be helpful to you or your cause and would like to meet, please feel free to get in touch.
+I am a Senior Advanced ML Engineer at [Cotality (formerly CoreLogic)](https://www.cotality.com/), where I architect AI solutions for the property insurance industry.
+Previously, I was a Lead AI Engineer at [Valuence Technologies Japan](https://www.valuence.inc/en/group/technologies/), developing AI systems for luxury goods authentication.
+I hold a Master's in Signal Processing from IIT Guwahati and a Bachelor's in Electrical Engineering from KGEC.
+With over 4 years of experience, my expertise spans computer vision, NLP, AI system design, and MLOps.
+
+I'm passionate about creating AI solutions with social impact while balancing technical excellence with practical business needs.
+I'm always excited to chat, collaborate, or simply share ideas! Feel free to get in touch!
 
 # Some history
 
-- I was born into a simple middle-class family in December 1994 in West Bengal, India. My parents, who were not literate due to lack of opportunity, had high ambitions for my education.
+- 1994: Born in West Bengal, India to parents who, despite lacking formal education, instilled strong values of determination and perseverance. Their emphasis on education would shape my entire journey.
 
-- In my early years, I witnessed the hardships my parents faced to educate me. I have three siblings, and we used to study and play together.
+- Early 2000s: Grew up with three siblings in a supportive family environment that balanced academics and recreation. Our home was filled with books and learning materials, despite limited resources.
 
-- The turning point in my life came when I was 9 years old and lost my mother to cancer. At that moment, I couldn't fully grasp the magnitude of the loss.
+- 2003: At age 9, experienced a profound loss when my mother passed away from cancer. Her final wish for my education and success became my driving force. I still remember her words about the importance of knowledge and perseverance.
 
-- I always used to recall some of the last words my mother said to me, expressing her dream to see me educated and successful. Her words have stayed with me to this day.
+- 2011: Achieved 91.72% in 10th grade with a 98/100 in Mathematics, ranking 3rd in school. This was when I first discovered my love for problem-solving and analytical thinking.
 
-- From then on, I began taking my studies more seriously and consistently improved my grades year after year.
+- 2013: Completed high school with 90.50% and a perfect score of 100 in Mathematics, earning the position of school valedictorian. The mathematical precision and logic fascinated me, setting the foundation for my future in engineering.
 
-- In 2011, at the age of 16, I completed my 10th grade with a score of over 91.72%. One of the highlights was my Mathematics score, where I achieved 98 out of 100. I ranked 3rd in my school that year.
+- 2017: Graduated from KGEC with a degree in Electrical Engineering. During this time, I developed a keen interest in the intersection of mathematics and technology, particularly in signal processing.
 
-- In 2013, at the age of 18, I completed high school with a score of about 90.50%. Once again, the highlight was my Mathematics score, where I achieved a perfect 100 out of 100. I topped my school that year.
+- 2018: After months of rigorous preparation, successfully passed the competitive GATE examination and secured admission to the prestigious IIT Guwahati. The journey to IIT was challenging but rewarding, teaching me the value of persistence.
 
-- In 2017, I graduated with a degree in Electrical Engineering from KGEC in West Bengal, India.
+- 2019: Landed a Machine Learning internship at Tata Consultancy Services in Chennai. This was my first real exposure to AI and machine learning, where I worked on practical applications that would shape my career path.
 
-- In 2018, I took the GATE examinations and qualified for admission to pursue a Master's at IIT Guwahati.
+- 2020: Completed my Master's in Signal Processing and Machine Learning at IIT Guwahati. The program perfectly combined my love for mathematics with practical applications in AI, setting me on my current career path.
 
-- In 2019, I completed an internship as a Machine Learning Engineer at Tata Consultancy Service in Chennai.
+- 2020-2024: Joined Valuence Technologies as an AI Engineer and progressed to Lead AI Engineer. Over four years, I developed AI systems for luxury goods authentication, working on challenging problems that required both technical expertise and business acumen.
 
-- In 2020, I finished my Master's degree in Signal Processing and Machine Learning. I truly enjoyed my studies as the subject encompassed Mathematics and Computer Science, which are my first and second loves.
-
-- Also in 2020, after completing my Master's, I joined Valuence Technologies as an AI Engineer to develop products for the company.
-
-- I have been working at Valuence Technologies for over 4 years, and during this time, I have made significant contributions to the development of many of its products and tools.
+- 2024-Present: Took on the role of Senior Advanced ML Engineer at Cotality (formerly CoreLogic), where I architect AI solutions for the property insurance industry. This new challenge allows me to apply my expertise in a different sector while continuing to grow professionally.
 
 Ask me in person for other stories that I'm afraid to share with the internet.
 
