@@ -14,11 +14,11 @@ const Index = () => (
       <header>
         <div className="title">
           <h2>
-            <Link to="/">About this site</Link>
+            <Link to="/">Hello, AI Enthusiast!</Link>
           </h2>
           <p>
-            A beautiful, responsive, statically-generated, react application
-            written with modern Javascript.
+            Thanks for visiting!
+            Learn about my journey in AI and machine learning
           </p>
         </div>
       </header>
@@ -27,7 +27,7 @@ const Index = () => (
         Welcome to my website. Please feel free to read more{' '}
         <Link to="/about">about me</Link>, or you can check out my{' '}
         <Link to="/resume">resume</Link>, <Link to="/projects">projects</Link>,{' '}
-        view <Link to="/stats">site statistics</Link>, or{' '}
+        view <Link to="/stats">personal and site statistics</Link>, or{' '}
         <Link to="/contact">contact</Link> me.
       </p>
       <p>

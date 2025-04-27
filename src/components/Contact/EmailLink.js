@@ -3,9 +3,15 @@ import PropTypes from 'prop-types';
 
 // Validates the first half of an email address.
 const validateText = (text) => {
+  // This function validates the first half of an email address (the part before the @ symbol)
+  // It uses a regular expression that:
+  // 1. Allows alphanumeric characters and some special characters
+  // 2. Allows periods between parts (e.g., "first.last")
+  // 3. Allows quoted strings (e.g., "quoted.string")
   // NOTE: Passes RFC 5322 but not tested on google's standard.
   // eslint-disable-next-line no-useless-escape
   const re = /^(([^<>()\[\]\.,;:\s@\"]+(\.[^<>()\[\]\.,;:\s@\"]+)*)|(\".+\"))$/;
+  // Returns true if the text matches the regex pattern or if the text is empty
   return re.test(text) || text.length === 0;
 };
 
@@ -13,6 +19,7 @@ const messages = [
   'hi',
   'hello',
   'namaste!',
+  'bonjour!',
   'you-can-email-me-at-literally-anything! Really',
   'well, not anything. But most things',
   'like-this',
@@ -20,10 +27,17 @@ const messages = [
   'but not this :(  ',
   'you.can.also.email.me.with.specific.topics.like',
   'just-saying-hi',
+  'coffee-chat-invitation',
+  'AI-project-collaboration',
+  'help-my-robot-is-sentient',
   'please-work-for-us',
-  'help',
+  'i-found-a-bug-in-the-codebase',
+  'your-website-made-my-day',
+  'lets-talk-about-deep-learning-and-pizza',
   'admin',
   'or-I-really-like-your-website',
+  'are-you-actually-an-AI?',
+  'high-five-from-the-internet',
   'thanks',
 ];
 
@@ -87,7 +101,7 @@ const EmailLink = ({ loopMessage }) => {
     >
       <a href={validateText(message) ? `mailto:${message}@mldangelo.com` : ''}>
         <span>{message}</span>
-        <span> @ bishalkrshaw1994@gmail.com</span>
+        <span>@bishalkrshaw1994@gmail.com</span>
       </a>
     </div>
   );

@@ -8,7 +8,7 @@ With over 4 years of experience, my expertise spans computer vision, NLP, AI sys
 I'm passionate about creating AI solutions with social impact while balancing technical excellence with practical business needs.
 I'm always excited to chat, collaborate, or simply share ideas! Feel free to get in touch!
 
-# Some history
+# My Journey
 
 - 1994: Born in West Bengal, India to parents who, despite lacking formal education, instilled strong values of determination and perseverance. Their emphasis on education would shape my entire journey.
 
@@ -24,7 +24,7 @@ I'm always excited to chat, collaborate, or simply share ideas! Feel free to get
 
 - 2018: After months of rigorous preparation, successfully passed the competitive GATE examination and secured admission to the prestigious IIT Guwahati. The journey to IIT was challenging but rewarding, teaching me the value of persistence.
 
-- 2019: Landed a Machine Learning internship at Tata Consultancy Services in Chennai. This was my first real exposure to AI and machine learning, where I worked on practical applications that would shape my career path.
+- 2019: Landed a Machine Learning summer internship at Tata Consultancy Services in Chennai. This was my first real exposure to AI and machine learning, where I worked on practical applications that would shape my career path.
 
 - 2020: Completed my Master's in Signal Processing and Machine Learning at IIT Guwahati. The program perfectly combined my love for mathematics with practical applications in AI, setting me on my current career path.
 
@@ -36,19 +36,23 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 
 # I like
 
-- Travelling, Exploring new places
-- All Physical Sports, watching and playing
-- Music particularly Indian classical
-- Reading any Book or from the Internet
-- Understanding Businesses and Tracking them
-- Exercising and Running
+- Traveling and exploring new destinations
+- Gardening and nurturing plants, with a special interest in sustainable home gardens
+- Spending time with animals, especially dogs and cats, and supporting animal welfare causes
+- Various physical sports, both as a spectator and participant
+- Music, particularly Indian classical compositions
+- Reading books and online content across diverse subjects
+- Analyzing business models and following market trends
+- Maintaining an active lifestyle through exercise and running
 
 # I dream of
 
-- Inspiring and feeling inspired.
-- Using my skill to change the world in a better way. Atleast 0.0000001% better!
-- Enabling a brighter future for everyone, regardless of political or socioeconomic status.
-- Treating every individual with genuine kindness and respect.
-- Staying curious.
-- Continually improving.
-- You not checking the commit history for earlier drafts of this file.
+- Inspiring others through my work while being inspired by innovative thinkers around me.
+- Leveraging my AI expertise to create meaningful solutions that make the world measurably better.
+- Building technologies that democratize opportunities and create a more equitable future for all.
+- Fostering genuine connections based on empathy, respect, and understanding across diverse backgrounds.
+- Maintaining an insatiable curiosity that drives continuous learning and discovery.
+- Embracing a growth mindset that transforms challenges into opportunities for improvement.
+- Contributing to open-source AI projects that benefit the global community.
+- Balancing technological advancement with ethical considerations and social responsibility.
+- You not checking the commit history for earlier drafts of this file (some things never change!).

@@ -22,7 +22,8 @@ const work = [
       'Developed a model to detect, localize and segment target objects from roof inspection images and indoor mitigation images.'
       + ' The model was able to detect with an accuracy of 95% and localize them with an average precision of 90%.'
       + ' It was deployed on-device on IOS mobile phone to provide almost real-time inspection results.'
-      + ' This model is further extended to track and count the number of target objects in any video.',
+      + ' This model is further extended to track and count the number of target objects in any video.'
+      + ' Eventually it itegrated with our other services to create Line Items for automatic mitigation documentation.',
 
       'Developed a system to convert unstructured data like images, videos, and audios into structured data using LLMs.'
       + ' The system was able to extract mitigation information about the property in more structured format and then create Line Items for it.'
@@ -95,13 +96,13 @@ const work = [
     summary: 'Tata Consultancy Services is an Indian multinational information technology services and consulting company. I worked as a Machine Learning Engineer Intern in the AI and Cognitive Sciences team of TCS Research and Innovation Labs.',
     highlights: [
       'Worked on a project called "Shoppable Video - In-video Search" where I developed a model to detect and localise'
-      + ' products like bags, shoes, and apparels from videos.',
+      + ' products like bags, shoes, and apparels from advertisement videos.',
       'The model was later on integrated with a retailer\'s catalog to fetch top similar products to the detected ones'
       + ' using Content-based Image Retrival (CBIR) system.',
     ],
   },
   {
-    name: 'Indian Institute of Technology Guwahati(IITG)',
+    name: 'Indian Institute of Technology Guwahati',
     position: 'Teaching Assistant - ML Labs',
     url: 'https://www.iitg.ac.in/',
     startDate: '2019-07-01',
